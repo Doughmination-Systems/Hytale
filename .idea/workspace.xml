@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40fa092b-528a-4219-8424-b8293d523b3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Hytale.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/IntelliLang.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/build-cpt.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build-plural.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/cpt/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/plural/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/cpt/VERSION" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/plural/VERSION" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/cpt/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/plural/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/cpt/release_deployment_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/plural/release_deployment_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/cpt/src/main/java/win/clovelib/cpt/CptPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/plural/src/main/java/win/doughmination/plural/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/cpt/src/main/java/win/clovelib/cpt/commands/FrontCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/plural/src/main/java/win/doughmination/plural/commands/FrontCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/cpt/src/main/java/win/clovelib/cpt/commands/SystemCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/plural/src/main/java/win/doughmination/plural/commands/SystemCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/cpt/src/main/java/win/clovelib/cpt/data/DataManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/plural/src/main/java/win/doughmination/plural/data/DataManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/cpt/src/main/java/win/clovelib/cpt/data/PlayerSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/plural/src/main/java/win/doughmination/plural/data/PlayerSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/cpt/src/main/java/win/clovelib/cpt/data/ProxyMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/plural/src/main/java/win/doughmination/plural/data/ProxyMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/cpt/src/main/java/win/clovelib/cpt/listeners/ChatListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/plural/src/main/java/win/doughmination/plural/listeners/ChatListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/cpt/src/main/resources/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/plural/src/main/resources/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/cpt/src/main/resources/version.yml" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/plural/src/main/resources/version.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\clove\.gradle\wrapper\dists\gradle-9.3.0-bin\79n14ral3mx1ozqr3csh2u872\gradle-9.3.0" javaHome="C:\Users\clove\.jdks\temurin-24.0.2" gradleVersion="9.3.0" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="395aStAE51P5Y02QM6yAhX6TKg9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/clove/Downloads/Hytale",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40fa092b-528a-4219-8424-b8293d523b3b" name="Changes" comment="" />
+      <created>1769988389126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769988389126</updated>
+      <workItem from="1769988428352" duration="860000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

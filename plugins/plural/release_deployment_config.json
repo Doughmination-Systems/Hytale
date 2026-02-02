@@ -1,0 +1,24 @@
+{
+  "project_name": "ClovesPluralTale",
+  "plugin_jar_path": "/plugins/cpt/build/libs/ClovesPluralTale-%VERSION%.jar",
+  "changelog_path": "/plugins/cpt/CHANGELOG.md",
+  "version_path": "/plugins/cpt/VERSION",
+  "fancyspaces": {
+    "space_id": "cpp",
+    "platform": "hytale",
+    "channel": "alpha",
+    "supported_versions": [
+      "1.0.0"
+    ]
+  },
+  "orbis": {
+    "resource_id": "cmjap1i3j000201s6uoluytih",
+    "channel": "RELEASE",
+    "supported_versions": [ "V1" ]
+  },
+  "unifiedhytale": {
+    "project_id": "d77f5abc-a197-47e3-821f-c37cd00c5bd8",
+    "game_versions": [ "V1" ],
+    "release_channel": "release"
+  }
+}

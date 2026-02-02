@@ -1,0 +1,22 @@
+{
+  "Group": "DoughminationModding",
+  "Name": "Plural",
+  "Version": "1.0.0",
+  "Description": "A Hytale plugin for plural systems",
+  "Authors": [
+    {
+      "Name": "Clove Twilight"
+    }
+  ],
+  "Website": "https://modding.doughmination.co.uk/",
+  "ServerVersion": "*",
+  "Dependencies": {
+
+  },
+  "OptionalDependencies": {
+
+  },
+  "DisabledByDefault": false,
+  "Main": "win.doughmination.plural.MainClass",
+  "IncludesAssetPack": true
+}
