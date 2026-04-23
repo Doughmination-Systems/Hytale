@@ -16,7 +16,7 @@ dependencies {
     compileOnly(files("../../libs/HytaleServer.jar"))
 
     // GSON - shaded into the plugin
-    implementation("com.google.code.gson:gson:2.13.2")
+    implementation("com.google.code.gson:gson:2.14.0")
 }
 
 java {
